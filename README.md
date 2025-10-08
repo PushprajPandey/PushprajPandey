@@ -50,7 +50,7 @@
 <a href="https://github.com/PushprajPandey/PushprajPandey">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PushprajPandey&theme=github_dark&hide_border=true" alt="Pushpraj's GitHub Stats Graph"/>
 </a>
-
+<br> </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushprajPandey&layout=compact&theme=github_dark&show_icons=true" alt="pushprajpandey" />
 </div>
 
