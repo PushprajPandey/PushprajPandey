@@ -4,8 +4,6 @@
   
 # 👋 Hi, I'm Pushpraj Pandey
 
-### 💻 Software Engineer | ☁️ DevOps Enthusiast | 🚀 Full Stack Developer
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DAFE3&center=true&vCenter=true&repeat=true&width=600&lines=Building+Scalable+Solutions;DevOps+%7C+Cloud+%7C+Full+Stack;Passionate+About+Innovation" alt="Typing SVG" />
 
 </div>
