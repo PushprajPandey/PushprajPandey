@@ -55,10 +55,6 @@
 
 ## � Professional Experience
 
-<div align="center">
-  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="120px" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
 ### 🏢 SmartBridge - Full Stack Developer
 **Jan 2025 - Apr 2025** | *Internship*
 
@@ -96,7 +92,7 @@
 
 <p>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" alt="express" width="40" height="40"/> </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="50" height="50"/></a>
 </p>
 
@@ -149,10 +145,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-
-
----
 
 <div align="center">
   
