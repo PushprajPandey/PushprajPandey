@@ -81,7 +81,7 @@
 
 <p>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" alt="express" width="40" height="4"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" alt="express" width="40" height="40"/> </a
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="50" height="50"/></a>
 </p>
 
