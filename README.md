@@ -51,7 +51,7 @@
 
 ---
 
-## � Professional Experience
+## 💡 Professional Experience
 
 ### 🏢 SmartBridge - Full Stack Developer
 **Jan 2025 - Apr 2025** | *Internship*
