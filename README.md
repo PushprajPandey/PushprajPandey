@@ -4,8 +4,6 @@
   
 # 👋 Hi, I'm Pushpraj Pandey
 
-### 💻 Software Engineer | ☁️ DevOps Enthusiast | 🚀 Full Stack Developer
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DAFE3&center=true&vCenter=true&repeat=true&width=600&lines=Building+Scalable+Solutions;DevOps+%7C+Cloud+%7C+Full+Stack;Passionate+About+Innovation" alt="Typing SVG" />
 
 </div>
@@ -133,8 +131,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pushpandey04)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pushprajpandey.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalpandey858@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushprajPandey)
-
 </div>
 
 ---
@@ -149,8 +145,6 @@
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
 ### ⭐ From [Pushpraj Pandey](https://github.com/PushprajPandey)
 
 </div>
