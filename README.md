@@ -135,15 +135,6 @@
 <a href="https://www.instagram.com/pushpandey04" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" alt="Instagram" height="40"/>
 </a>
-<a href="https://pushprajpandey.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" alt="Portfolio" height="40"/>
-</a>
-<a href="mailto:sajalpandey858@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" height="40"/>
-</a>
-<a href="https://github.com/PushprajPandey" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" height="40"/>
-</a>
 
 </div>
 
