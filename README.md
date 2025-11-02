@@ -4,6 +4,8 @@
   
 # 👋 Hi, I'm Pushpraj Pandey
 
+### 💻 Software Engineer | ☁️ DevOps Enthusiast | 🚀 Full Stack Developer
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DAFE3&center=true&vCenter=true&repeat=true&width=600&lines=Building+Scalable+Solutions;DevOps+%7C+Cloud+%7C+Full+Stack;Passionate+About+Innovation" alt="Typing SVG" />
 
 </div>
@@ -53,7 +55,7 @@
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -79,7 +81,7 @@
 
 <p>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" alt="express" width="40" height="40"/> </a
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="50" height="50"/></a>
 </p>
 
@@ -126,11 +128,23 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpraj-pandey-249732250/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pushpandey04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pushprajpandey.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajalpandey858@gmail.com)
+
+<a href="https://www.linkedin.com/in/pushpraj-pandey-249732250/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://www.instagram.com/pushpandey04" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" alt="Instagram" height="40"/>
+</a>
+<a href="https://pushprajpandey.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" alt="Portfolio" height="40"/>
+</a>
+<a href="mailto:sajalpandey858@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" height="40"/>
+</a>
+<a href="https://github.com/PushprajPandey" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" height="40"/>
+</a>
+
 </div>
 
 ---
@@ -143,8 +157,13 @@
 
 </div>
 
+
+
+---
+
 <div align="center">
   
+
 ### ⭐ From [Pushpraj Pandey](https://github.com/PushprajPandey)
 
 </div>
