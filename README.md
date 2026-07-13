@@ -129,7 +129,7 @@
 <br/>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushprajPandey&layout=compact&theme=github_dark&show_icons=true&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=PushprajPandey&type=languages&theme=tokyonight&chart=bars" alt="Top Languages" />
 </div>
 
 ---
