@@ -123,7 +123,7 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PushprajPandey&theme=github_dark&hide_border=true" alt="Contribution Graph"/>
+  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PushprajPandey&theme=github_dark" alt="Contribution Graph"/>
 </div>
 
 <br/>
