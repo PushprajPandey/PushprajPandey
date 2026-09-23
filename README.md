@@ -195,7 +195,7 @@
 <br><sub><b>Jenkins</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="./assets/git-logo.gif" alt="Git" width="65" height="65"/>
+  <img src="./assets/git.gif" alt="Git" width="65" height="65"/>
   <br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="96">
