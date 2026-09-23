@@ -114,16 +114,16 @@
   <br><sub><b>Redux</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65"/>
-<br><sub><b>HTML5</b></sub>
+  <img src="./assets/html5.gif" alt="HTML5" width="65" height="65"/>
+  <br><sub><b>HTML5</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65"/>
-<br><sub><b>CSS3</b></sub>
+  <img src="./assets/css3.gif" alt="CSS3" width="65" height="65"/>
+  <br><sub><b>CSS3</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65"/>
-<br><sub><b>Tailwind CSS</b></sub>
+  <img src="./assets/tailwind.gif" alt="Tailwind CSS" width="65" height="65"/>
+  <br><sub><b>Tailwind CSS</b></sub>
 </td>
 </tr>
 </table>
@@ -149,8 +149,8 @@
   <br><sub><b>REST API</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="65" height="65"/>
-<br><sub><b>Caching</b></sub>
+  <img src="./assets/caching.gif" alt="Caching" width="65" height="65"/>
+  <br><sub><b>Caching</b></sub>
 </td>
 </tr>
 </table>
@@ -160,8 +160,8 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/>
-<br><sub><b>MongoDB</b></sub>
+  <img src="./assets/MongoDB.gif" alt="MongoDB" width="65" height="65"/>
+  <br><sub><b>MongoDB</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65"/>
