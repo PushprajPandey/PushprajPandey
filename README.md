@@ -195,8 +195,8 @@
 <br><sub><b>Jenkins</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
-<br><sub><b>Git</b></sub>
+  <img src="./assets/git-logo.gif" alt="Git" width="65" height="65"/>
+  <br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65"/>
