@@ -66,58 +66,185 @@
 
 ## 🛠️ Tech Stack
 
+
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
-</p>
+<table>
+<tr>
 
-### 🌐 Frontend Development
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/>
+  <br><sub><b>Python</b></sub>
+</td>
 
-<p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></a>
-</p>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65"/>
+  <br><sub><b>Java</b></sub>
+</td>
 
-### ⚙️ Backend Development
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65"/>
+  <br><sub><b>JavaScript</b></sub>
+</td>
 
-<p>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" alt="express" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="50" height="50"/></a>
-</p>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" height="65"/>
+  <br><sub><b>TypeScript</b></sub>
+</td>
 
-### 🗄️ Databases
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65"/>
+  <br><sub><b>C++</b></sub>
+</td>
 
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
-</p>
+</tr>
+</table>
+🌐 Frontend
 
-### ☁️ DevOps & Cloud
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65"/>
+  <br><sub><b>Redux</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65"/>
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65"/>
+<br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65"/>
+<br><sub><b>Tailwind CSS</b></sub>
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-</p>
+⚙️ Backend & Systems
 
-### 📚 Data Science & ML
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65"/>
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65"/>
+<br><sub><b>Express.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65"/>
+<br><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="65" height="65"/>
+  <br><sub><b>REST API</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="65" height="65"/>
+<br><sub><b>Caching</b></sub>
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/></a>
-</p>
+🗄️ Databases & Data
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/>
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65"/>
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>
+  <br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="65" height="65"/>
+<br><sub><b>Redis</b></sub>
+</td>
+</tr>
+</table>
+
+☁️ Cloud & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
+<br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/>
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65"/>
+<br><sub><b>Jenkins</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65"/>
+<br><sub><b>CI/CD</b></sub>
+</td>
+</tr>
+</table>
+
+🤖 AI & Computer Vision
+
+<table>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="65" height="65"/>
+<br><sub><b>OpenCV</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65"/>
+<br><sub><b>Pandas</b></sub>
+</td>
+</tr>
+</table>
+
+🧠 Core CS & Engineering
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/>
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>
+  <br><sub><b>GitHub</b></sub>
+</td>
+</td>
+</tr>
+</table>
+
+Data Structures & Algorithms • OOP • Operating Systems • DBMS • System Design
+Microservices Architecture • API Optimization • Database Indexing • Query Optimization
+Caching Strategies • RESTful API Design
 
 </div>
-
 ---
 
 ## 📈 GitHub Statistics
