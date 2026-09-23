@@ -195,10 +195,6 @@
 <br><sub><b>Jenkins</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="./assets/git.gif" alt="Git" width="65" height="65"/>
-  <br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65"/>
 <br><sub><b>CI/CD</b></sub>
 </td>
@@ -225,12 +221,12 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/>
-<br><sub><b>Linux</b></sub>
+  <img src="./assets/linux.gif" alt="Linux" width="65" height="65"/>
+  <br><sub><b>Linux</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
-<br><sub><b>Git</b></sub>
+  <img src="./assets/git.gif" alt="Git" width="65" height="65"/>
+  <br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>
